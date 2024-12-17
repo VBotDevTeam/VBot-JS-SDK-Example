@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>VBotPluginDemo</title>
+    
+    
+    
+  </head>
+
+  <body style="background-color: gray;">
+    <!-- <button type="button" id="openVBotWebCallBtn">Dial Pad</button> -->
+  </body>
+  
+ 
+<script type="module">
+    import {VBotWebCall} from "./vbot-web-plugin.js";
+    var setting = {
+        
+        // top: 0,
+        // left: 0,
+        right:10,
+        bottom:10,
+        access_token: 'Your access token',
+
+    };
+   
+    VBotWebCall.init(setting);
+      
+</script>
+ 
+</html>
