@@ -33,7 +33,7 @@ Thêm đoạn code sau vào bên dưới thẻ **<body></body>** của trang HTM
 - left: Khoảng cách (px) tới lề trái của page, tương tự left của CSS
 - access_token: Token của tài khoản SDK, vui liên hệ hỗ trợ VBot để được hướng dẫn đăng ký tài khoản SDK và lấy token
 
-b. Tạo nút mở chức năng call:
+## Tạo nút mở chức năng call:
 
 - Tạo thẻ <button type = ”button”></button> trên trang HTML
 - Gán id =”openVBotWebCallBtn” cho thẻ button vừa tạo
