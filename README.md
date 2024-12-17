@@ -25,14 +25,13 @@ Thêm đoạn code sau vào bên dưới thẻ **<body></body>** của trang HTM
 
 ```
 
-Trong đó:
+## Trong đó:
 
-| top | Khoảng cách (px) tới lề trên của page, tương tự top của CSS |
-<!-- | --- | --- | -->
-| bottom | Khoảng cách (px) tới lề dưới của page, tương tự bottom của CSS |
-| right | Khoảng cách (px) tới lề phải của page, tương tự right của CSS |
-| left | Khoảng cách (px) tới lề trái của page, tương tự left của CSS |
-| access_token | Token của tài khoản SDK, vui liên hệ hỗ trợ VBot để được hướng dẫn đăng ký tài khoản SDK và lấy token. |
+- top: Khoảng cách (px) tới lề trên của page, tương tự top của CSS
+- bottom: Khoảng cách (px) tới lề dưới của page, tương tự bottom của CSS
+- right: Khoảng cách (px) tới lề phải của page, tương tự right của CSS
+- left: Khoảng cách (px) tới lề trái của page, tương tự left của CSS
+- access_token: Token của tài khoản SDK, vui liên hệ hỗ trợ VBot để được hướng dẫn đăng ký tài khoản SDK và lấy token
 
 b. Tạo nút mở chức năng call:
 
